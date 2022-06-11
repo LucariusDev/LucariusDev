@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 📩・**Want to reach? Add Lucarius#4007 on [Discord](https://discord.gg/nova-roleplay)**
 
-<a href="https://discord.gg/nova-roleplay" target="_blank"> <img src="https://discord.c99.nl/widget/theme-5/961732889651839006.png"/></a>
 <a href="https://discord.gg/nova-roleplay" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
